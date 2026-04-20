@@ -1,0 +1,3 @@
+# config.py
+WEATHER_API_KEY = "13d07f0516dfeee59debf9f011cbd574"
+GNEWS_API_KEY = "c1c7247ff4ed9156bf0e867a397b932b"
