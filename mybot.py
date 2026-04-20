@@ -5,11 +5,7 @@ import webbrowser
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-# ============================================
-# YOUR API KEYS - REPLACE THESE
-# ============================================
-WEATHER_API_KEY = "13d07f0516dfeee59debf9f011cbd574"  # Get from openweathermap.org
-GNEWS_API_KEY = "c1c7247ff4ed9156bf0e867a397b932b"   # Get from gnews.io
+from config import WEATHER_API_KEY, GNEWS_API_KEY
 
 
 # ============================================
