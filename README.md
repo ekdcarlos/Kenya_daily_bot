@@ -27,10 +27,6 @@ A Python bot that fetches live weather data and news headlines for Nairobi and M
 4. Add your API keys to the script
 5. Run: `python kenya_daily_bot.py`
 
-## Sample Output
-
-![Kenya Daily Update Bot Screenshot](Screenshot 2026-04-20 102539.png)
-
 ## Author
 
 [Emmanuel Kalongo Dena] - IT Student, COSEKE Attachment
