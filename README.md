@@ -29,7 +29,7 @@ A Python bot that fetches live weather data and news headlines for Nairobi and M
 
 ## Author
 
-[Emmanuel Kalongo Dena] - IT Student, COSEKE Attachment
+[Emmanuel Kalongo Dena] - IT Student from Dedan Kimathi University of Technology, COSEKE Attachment
 
 ## License
 
