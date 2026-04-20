@@ -29,7 +29,7 @@ A Python bot that fetches live weather data and news headlines for Nairobi and M
 
 ## Sample Output
 
-![Kenya Daily Update Bot Screenshot](kenya_update_20260420_100857.html)
+![Kenya Daily Update Bot Screenshot](Screenshot 2026-04-20 102539.png)
 
 ## Author
 
