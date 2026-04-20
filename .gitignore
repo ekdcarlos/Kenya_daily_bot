@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+echo "config.py" >> .gitignore
+git add .gitignore
+git commit -m "Add .gitignore"
+git push
